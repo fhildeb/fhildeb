@@ -13,7 +13,7 @@ I'm a web3 engineer passionate about open-source, blockchain, and smart accounts
     </td>
     <td>
       <a href="https://github.com/fhildeb" target="_blank">
-        <img width="397" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="GitHub Readme Stats"/>
+        <img width="397" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Readme Stats"/>
       </a>
     </td>
   </tr>
