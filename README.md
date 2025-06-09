@@ -2,14 +2,14 @@
 
 ---
 
-I'm a web3 engineer passionate about open source, blockchain, and smart accounts. I'm constantly exploring new technologies and sharing insights through books and guides. With over a decade of experience in web development, I'm currently focused on building with TypeScript, and Python.
+I'm a web3 engineer passionate about open-source, blockchain, and smart accounts. I continually explore new technologies and share insights through books, articles, and guides. With a decade of experience in web development, I'm currently focused on building with TypeScript and Python.
 
 <a href="https://gitroll.io/profile/uHthVHYZxxdfmxHB37wI5AH9oUZk2" target="_blank">
-  <img width="460" src="https://gitroll.io/api/badges/profiles/v1/uHthVHYZxxdfmxHB37wI5AH9oUZk2?theme=light" alt="GitRoll Profile Badge"/>
+  <img width="400" src="https://gitroll.io/api/badges/profiles/v1/uHthVHYZxxdfmxHB37wI5AH9oUZk2?theme=light" alt="GitRoll Profile Badge"/>
 </a>
 
 <a href="https://github.com/fhildeb" target="_blank">
-  <img width="460" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="GitHub Readme Stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="GitHub Readme Stats"/>
 </a>
 
 ## 🚀 Projects
