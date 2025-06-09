@@ -4,15 +4,22 @@
 
 I'm a web3 engineer passionate about open-source, blockchain, and smart accounts. I continually explore new technologies and share insights through books, articles, and guides. With a decade of experience in web development, I'm currently focused on building with TypeScript and Python.
 
-<a href="https://gitroll.io/profile/uHthVHYZxxdfmxHB37wI5AH9oUZk2" target="_blank">
-  <img width="400" src="https://gitroll.io/api/badges/profiles/v1/uHthVHYZxxdfmxHB37wI5AH9oUZk2?theme=light" alt="GitRoll Profile Badge"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://gitroll.io/profile/uHthVHYZxxdfmxHB37wI5AH9oUZk2" target="_blank">
+        <img width="400" src="https://gitroll.io/api/badges/profiles/v1/uHthVHYZxxdfmxHB37wI5AH9oUZk2?theme=light" alt="GitRoll Profile Badge"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fhildeb" target="_blank">
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="GitHub Readme Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/fhildeb" target="_blank">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="GitHub Readme Stats"/>
-</a>
-
-## 🚀 Projects
+## 🌱 Projects
 
 ---
 
@@ -37,7 +44,7 @@ Here are some external repositories I've worked on:
 - **LUKSO**: [dev-docs](https://github.com/lukso-network/docs), [playground](https://github.com/lukso-network/lukso-playground), [lukso-cli](https://github.com/lukso-network/tools-lukso-cli), [boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate), [support-center](https://github.com/lukso-network/website-support-center), [example-apps](https://github.com/lukso-network/example-dapp-lsps), [up-tools](https://github.com/lukso-network/universalprofile-test-dapp)
 - **ERC725**: [erc725.js](https://github.com/lukso-network/erc725.js), [inspector-tool](https://github.com/lukso-network/tools-erc725-inspect)
 
-## ✍️ Writings
+## 🖋️ Writings
 
 ---
 
