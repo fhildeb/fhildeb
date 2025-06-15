@@ -73,7 +73,7 @@ I'm a web3 engineer passionate about open-source, blockchain, and smart accounts
 
 ---
 
-![Production Apps](https://img.shields.io/badge/Production%20Apps-10+-blue?logo=github) ![Stars](https://img.shields.io/badge/Stars-20+-blue?logo=github) ![Forks](https://img.shields.io/badge/Forks-45+-blue?logo=github)
+<a href="https://github.com/fhildeb?tab=repositories" target="_blank"> ![Production Apps](https://img.shields.io/badge/Production%20Apps-10+-blue?logo=github)</a> <a href="https://github.com/fhildeb?tab=repositories" target="_blank"> ![Stars](https://img.shields.io/badge/Stars-20+-blue?logo=github) </a> <a href="https://github.com/fhildeb?tab=repositories" target="_blank"> ![Forks](https://img.shields.io/badge/Forks-45+-blue?logo=github) </a>
 
 Here is a list of my personal code repositories:
 
@@ -98,7 +98,7 @@ Here are some external repositories I've worked on:
 
 ---
 
-![Medium Articles](https://img.shields.io/badge/Articles-25+-white?logo=medium) ![Claps](https://img.shields.io/badge/Claps-1,2k+-white?logo=medium) ![Academic Publications](https://img.shields.io/badge/Academic%20Publications-5-white?logo=googlescholar&logoColor=f5f5f5)
+<a href="https://fhildeb.medium.com" target="_blank"> ![Medium Articles](https://img.shields.io/badge/Articles-25+-white?logo=medium) </a> <a href="https://fhildeb.medium.com" target="_blank"> ![Claps](https://img.shields.io/badge/Claps-1,2k+-white?logo=medium) </a> <a href="https://monami.hs-mittweida.de/solrsearch/index/search/searchtype/authorsearch/author/Felix+Hildebrandt" target="_blank"> ![Academic Publications](https://img.shields.io/badge/Academic%20Publications-5-white?logo=googlescholar&logoColor=f5f5f5) </a>
 
 - **Blockchain Accounts**: [Why Blockchain Accounts Matter](https://medium.com/lukso/why-blockchain-accounts-matter-1-3-from-db-to-did-4acaed56563b), [Web3 Accounts Unfolding](https://fhildeb.medium.com/web3-accounts-unfolding-1-3-adoption-barriers-2c1022a8ccb5)
 - **Digital Identity**: [Decentralized Account Management](https://fhildeb.medium.com/decentralized-account-management-1-2-current-threats-of-media-and-privacy-17bad839cddd), [Identity Solutions for the Internet](https://medium.com/keezdao/identity-solutions-for-the-internet-part-1-fa68bb3704c7)
