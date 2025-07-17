@@ -98,7 +98,7 @@ Here are some external repositories I've worked on:
 
 ---
 
-<a href="https://fhildeb.medium.com" target="_blank"> ![Medium Articles](https://img.shields.io/badge/Articles-25+-white?logo=medium) </a> <a href="https://fhildeb.medium.com" target="_blank"> ![Claps](https://img.shields.io/badge/Claps-1,2k+-white?logo=medium) </a> <a href="https://monami.hs-mittweida.de/solrsearch/index/search/searchtype/authorsearch/author/Felix+Hildebrandt" target="_blank"> ![Academic Publications](https://img.shields.io/badge/Academic%20Publications-5-white?logo=googlescholar&logoColor=f5f5f5) </a>
+<a href="https://fhildeb.medium.com" target="_blank"> ![Medium Articles](https://img.shields.io/badge/Articles-25+-white?logo=medium) </a> <a href="https://fhildeb.medium.com" target="_blank"> ![Claps](https://img.shields.io/badge/Claps-1,2k+-white?logo=medium) </a> <a href="https://scholar.google.com/citations?hl=de&user=pLNcdncAAAAJ" target="_blank"> ![Academic Publications](https://img.shields.io/badge/Academic%20Publications-5-white?logo=googlescholar&logoColor=f5f5f5) </a>
 
 - **Blockchain Accounts**: [Why Blockchain Accounts Matter](https://medium.com/lukso/why-blockchain-accounts-matter-1-3-from-db-to-did-4acaed56563b), [Web3 Accounts Unfolding](https://fhildeb.medium.com/web3-accounts-unfolding-1-3-adoption-barriers-2c1022a8ccb5)
 - **Digital Identity**: [Decentralized Account Management](https://fhildeb.medium.com/decentralized-account-management-1-2-current-threats-of-media-and-privacy-17bad839cddd), [Identity Solutions for the Internet](https://medium.com/keezdao/identity-solutions-for-the-internet-part-1-fa68bb3704c7)
