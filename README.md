@@ -8,12 +8,15 @@ I'm a web3 engineer passionate about open-source, blockchain, and smart accounts
   <tr>
     <td>
       <a href="https://gitroll.io/profile/uHthVHYZxxdfmxHB37wI5AH9oUZk2" target="_blank">
-        <img width="397" src="https://gitroll.io/api/badges/profiles/v1/uHthVHYZxxdfmxHB37wI5AH9oUZk2?theme=light" alt="GitRoll Profile Badge"/>
+        <img width="700" src="https://gitroll.io/api/badges/profiles/v1/uHthVHYZxxdfmxHB37wI5AH9oUZk2?theme=light" alt="GitRoll Profile Badge"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/fhildeb" target="_blank">
-        <img width="397" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Readme Stats"/>
+        <img width="270" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Readme Stats"/>
+      </a>
+      <a href="https://github.com/fhildeb?tab=repositories" target="_blank">
+        <img width="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhildeb&theme=vue&layout=compact&langs_count=10&hide=xslt,css,makefile,assembly&exclude_repo=ba-data-representation,shutdown-doc&hide_border=true" alt="GitHub Lang Stats"/>
       </a>
     </td>
   </tr>
