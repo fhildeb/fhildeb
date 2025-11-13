@@ -1,7 +1,5 @@
 # Hi, I'm Felix 👋
 
----
-
 I'm a web3 engineer passionate about open-source, blockchain, and smart accounts. I continually explore new technologies and share insights through books, articles, and guides. With a decade of experience in web development, I'm currently focused on building with TypeScript and Python.
 
 <table>
@@ -13,10 +11,10 @@ I'm a web3 engineer passionate about open-source, blockchain, and smart accounts
     </td>
     <td>
       <a href="https://github.com/fhildeb" target="_blank">
-        <img width="270" src="https://github-readme-stats.vercel.app/api?username=fhildeb&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Readme Stats"/>
+        <img width="270" src="https://github-readme-stats-fhildeb.vercel.app/api?username=fhildeb&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=prs" alt="GitHub Readme Stats"/>
       </a>
       <a href="https://github.com/fhildeb?tab=repositories" target="_blank">
-        <img width="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhildeb&theme=vue&layout=compact&langs_count=10&hide=xslt,css,makefile,assembly&exclude_repo=ba-data-representation,shutdown-doc&hide_border=true" alt="GitHub Lang Stats"/>
+        <img width="160" src="https://github-readme-stats-fhildeb.vercel.app/api/top-langs/?username=fhildeb&theme=vue&layout=compact&langs_count=10&hide=xslt,css,makefile,assembly&exclude_repo=ba-data-representation,shutdown-doc&hide_border=true" alt="GitHub Lang Stats"/>
       </a>
     </td>
   </tr>
@@ -74,8 +72,6 @@ I'm a web3 engineer passionate about open-source, blockchain, and smart accounts
 
 ## 🌱 Projects
 
----
-
 <a href="https://github.com/fhildeb?tab=repositories" target="_blank"> ![Production Apps](https://img.shields.io/badge/Production%20Apps-10+-blue?logo=github)</a> <a href="https://github.com/fhildeb?tab=repositories" target="_blank"> ![Stars](https://img.shields.io/badge/Stars-20+-blue?logo=github) </a> <a href="https://github.com/fhildeb?tab=repositories" target="_blank"> ![Forks](https://img.shields.io/badge/Forks-45+-blue?logo=github) </a>
 
 Here is a list of my personal code repositories:
@@ -98,8 +94,6 @@ Here are some external repositories I've worked on:
 - **ERC725**: [erc725.js](https://github.com/lukso-network/erc725.js), [inspector-tool](https://github.com/lukso-network/tools-erc725-inspect)
 
 ## 🖋️ Writings
-
----
 
 <a href="https://fhildeb.medium.com" target="_blank"> ![Medium Articles](https://img.shields.io/badge/Articles-25+-white?logo=medium) </a> <a href="https://fhildeb.medium.com" target="_blank"> ![Claps](https://img.shields.io/badge/Claps-1,2k+-white?logo=medium) </a> <a href="https://scholar.google.com/citations?hl=de&user=pLNcdncAAAAJ" target="_blank"> ![Academic Publications](https://img.shields.io/badge/Academic%20Publications-5-white?logo=googlescholar&logoColor=f5f5f5) </a>
 
